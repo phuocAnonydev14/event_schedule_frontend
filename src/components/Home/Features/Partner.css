@@ -1,0 +1,45 @@
+.partner img {
+    max-width: 150px;
+    height: 10rem;
+    object-fit: cover;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.partner .banner-wrapper {
+    width: 100%;
+    height: 10rem;
+    overflow: hidden;
+}
+
+.partner .banner-wrapper .wrapper {
+    display: flex;
+}
+
+.partner .banner-wrapper .wrapper .images {
+    display: flex;
+    animation: swipe 5000ms linear infinite;
+}
+
+/* .partner .banner-wrapper .wrapper .images:nth-child(2) {
+    animation-delay: 5000ms;
+} */
+
+/* .partner .banner-wrapper .wrapper .images:last-child {
+    animation-delay: 10000ms;
+} */
+
+
+.partner .banner-wrapper:hover .wrapper .images {
+    animation-play-state: paused;
+}
+
+@keyframes swipe {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}

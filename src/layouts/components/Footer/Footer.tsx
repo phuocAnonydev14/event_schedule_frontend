@@ -194,7 +194,7 @@ function Footer() {
           <div className=" text-left">
             <div className="mt-2">Địa chỉ : Số 123 , phường Hòa Hiệp Nam , quận Liên Chiểu , Hà Nội</div>
             <div className=" mt-2">Hotline : 0898240032</div>
-            <div className="mt-2">Email : danangevent@gmail.com</div>
+            <div className="mt-2">Email : HANOIevent@gmail.com</div>
           </div>
         </div>
         <div className=" mr-16 w-[33.33%] mb-8">

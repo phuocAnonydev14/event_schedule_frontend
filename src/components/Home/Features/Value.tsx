@@ -45,16 +45,16 @@ function Value() {
                 data-aos="fade-right"
               >
                 <div className="max-w-3xl mx-auto  mb-12">
-                  <h1 className="h2 text-2xl">GIÁ TRỊ CỦA DANANG’S EVENT</h1>
+                  <h1 className="h2 text-2xl">GIÁ TRỊ CỦA HANOI’S EVENT</h1>
                 </div>
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <h3 className="h3 mb-3">
-                    DANANG’S EVENT tổ chức sự kiện giúp cho doanh nghiệp có thể
+                    HANOI’S EVENT tổ chức sự kiện giúp cho doanh nghiệp có thể
                     tiếp cận khách hàng tốt hơn, đồng thời tăng thêm độ nhận
                     diện cho thương hiệu.
                   </h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Dù là bất kỳ sự kiện nào, DANANG’S EVENT cũng luôn hướng đến
+                    Dù là bất kỳ sự kiện nào, HANOI’S EVENT cũng luôn hướng đến
                     các giá trị như:
                   </p>
                 </div>

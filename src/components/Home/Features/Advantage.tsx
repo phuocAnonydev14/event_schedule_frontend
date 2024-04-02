@@ -82,7 +82,7 @@ function Advantage() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="text-2xl">LÝ DO BẠN NÊN CHỌN DANANG’S EVENT</h2>
+            <h2 className="text-2xl">LÝ DO BẠN NÊN CHỌN HANOI’S EVENT</h2>
           </div>
 
           {/* Items */}

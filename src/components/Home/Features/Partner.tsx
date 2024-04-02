@@ -1,12 +1,7 @@
-import icon from "../../../assets/images/icon.jpg"
 import vnel from "../../../assets/images/vnel.png"
-import anh2 from "../../../assets/images/2.png"
-import anh3 from "../../../assets/images/3.png"
 import anh4 from "../../../assets/images/4.png"
-import anh5 from "../../../assets/images/5.png"
 import anh6 from "../../../assets/images/6.png"
 import anh7 from "../../../assets/images/7.png"
-import anh8 from "../../../assets/images/8.png"
 import "./Partner.css"
 
 function Partner() {
@@ -18,57 +13,57 @@ function Partner() {
            <div className="banner-wrapper">
            <div className="flex justify-between p-16 wrapper">
                 <div className="images">
-                    <div className="w-[233px] h-[240px] shadow-md rounded-lg">
+                    <div className="  rounded-lg">
                         <img src={anh6} alt="" />
                     </div>
-                    <div className="w-[230px] shadow-md rounded-lg">
+                    <div className="  rounded-lg">
                         <img src={anh7} alt="" />
                     </div>
-                    <div className="w-[230px] shadow-md rounded-lg">
-                        <img src={anh4} className="h-[130px] w-[230px]" />
+                    <div className="  rounded-lg">
+                        <img src={anh4} className="h-[130px] " />
                     </div>
-                    <div className="w-[204px] shadow-md rounded-lg">
+                    <div className="w-[204px]  rounded-lg">
                         <img src={vnel} alt="" />
                     </div>
                 </div>
                 <div className="images">
-                    <div className="w-[233px] h-[240px] shadow-md rounded-lg">
+                    <div className="  rounded-lg">
                         <img src={anh6} alt="" />
                     </div>
-                    <div className="w-[230px] shadow-md rounded-lg">
+                    <div className="  rounded-lg">
                         <img src={anh7} alt="" />
                     </div>
-                    <div className="w-[230px] shadow-md rounded-lg">
-                        <img src={anh4} className="h-[130px] w-[230px]" />
+                    <div className="  rounded-lg">
+                        <img src={anh4} className="h-[130px] " />
                     </div>
-                    <div className="w-[204px] shadow-md rounded-lg">
+                    <div className="w-[204px]  rounded-lg">
                         <img src={vnel} alt="" />
                     </div>
                 </div>
                 <div className="images">
-                    <div className="w-[233px] h-[240px] shadow-md rounded-lg">
+                    <div className="  rounded-lg">
                         <img src={anh6} alt="" />
                     </div>
-                    <div className="w-[230px] shadow-md rounded-lg">
+                    <div className="  rounded-lg">
                         <img src={anh7} alt="" />
                     </div>
-                    <div className="w-[230px] shadow-md rounded-lg">
-                        <img src={anh4} className="h-[130px] w-[230px]" />
+                    <div className="  rounded-lg">
+                        <img src={anh4} className="h-[130px] " />
                     </div>
-                    <div className="w-[204px] shadow-md rounded-lg">
+                    <div className="w-[204px]  rounded-lg">
                         <img src={vnel} alt="" />
                     </div>
                 </div>
             </div>
            </div>
             {/* <div className="flex justify-between p-16">
-                <div className="w-[230px]  shadow-md rounded-lg">
-                    <img src={anh2} className="h-[120px] w-[230px]" />
+                <div className="   rounded-lg">
+                    <img src={anh2} className="h-[120px] " />
                 </div>
-                <div className="w-[230px] shadow-md rounded-lg ">
-                    <img src={anh3} className="h-[120px] w-[230px]" />
+                <div className=" shadow-md rounded-lg ">
+                    <img src={anh3} className="h-[120px] " />
                 </div>
-                <div className="w-[230px] shadow-md rounded-lg">
+                <div className=" shadow-md rounded-lg">
                     <img src={anh8} alt="" />
                 </div>
                 <div className="w-[200px] shadow-md rounded-lg">

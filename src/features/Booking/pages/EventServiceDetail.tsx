@@ -14,7 +14,7 @@ function EventServiceDetail() {
       {isLoading && <Spinner />}
 
       {event && (
-        <div className="my-10">
+        <div className="my-4 pl-4">
           <h1 className="font-bold text-4xl mb-4">{event.title}</h1>
 
           <EditorDisplay value={event.content} />

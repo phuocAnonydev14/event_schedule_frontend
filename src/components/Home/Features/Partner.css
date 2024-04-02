@@ -1,6 +1,7 @@
 .partner img {
     max-width: 150px;
-    height: 10rem;
+    width: auto;
+    height: 120px;
     object-fit: cover;
     padding: 0 10px;
     cursor: pointer;
@@ -8,7 +9,6 @@
 
 .partner .banner-wrapper {
     width: 100%;
-    height: 10rem;
     overflow: hidden;
 }
 
@@ -18,7 +18,8 @@
 
 .partner .banner-wrapper .wrapper .images {
     display: flex;
-    animation: swipe 5000ms linear infinite;
+    animation: swipe 7000ms linear infinite;
+    gap: 60px;
 }
 
 /* .partner .banner-wrapper .wrapper .images:nth-child(2) {

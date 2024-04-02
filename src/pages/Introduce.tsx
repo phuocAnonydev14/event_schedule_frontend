@@ -20,7 +20,7 @@ function Introduce() {
           <h3 className="font-bold text-7xl text-yellow-400">Hà Nội EVENT</h3>
         </div>
       </div>
-      <section className="container mx-auto mt-8">
+      <section className="container mx-auto mt-8 px-4">
         <h2 className="text-3xl mb-4 uppercase text-blue-500 font-bold">Giới thiệu</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>

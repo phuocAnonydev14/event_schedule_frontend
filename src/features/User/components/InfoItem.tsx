@@ -15,7 +15,7 @@ const InfoItem: FC<SettingItemProps> = ({ title, initialValue }) => {
       <div className="flex flex-col w-1/3 mb-4">
         <label
           htmlFor={title}
-          className="font-semibold px-2 fon first-letter: text-2xl"
+          className="font-semibold px-2 fon first-letter: text-xl"
         >
           {title}
         </label>

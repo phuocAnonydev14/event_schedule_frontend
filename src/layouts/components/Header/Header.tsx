@@ -56,7 +56,7 @@ function Header() {
   }, [userData?.data?.account?.role]);
 
   return (
-    <Navbar isBordered maxWidth="full" className="fixed bg-blue-800" >
+    <Navbar isBordered maxWidth="full" className="fixed bg-[#6196A6] z-50" >
       <NavbarBrand>
         {/* <p className="font-bold text-inherit">LOGO</p> */}
         <img src={logo} className='w-[110px] ' alt="" />

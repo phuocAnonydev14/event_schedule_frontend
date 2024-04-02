@@ -21,7 +21,7 @@ function ServicesHome() {
         <div className="my-6 bg-blue-100 h-[auto]">
           <h3 className="font-bold mb-6 text-3xl text-center text-blue-500 ">DỊCH VỤ SỰ KIỆN</h3>
 
-          <div className="gap-2 grid grid-cols-2 sm:grid-cols-5 text-center p-9">
+          <div className="gap-5 grid grid-cols-2 sm:grid-cols-5 text-center p-9">
             {events
               ? events.map((cardItem) => (
                 <Card
